@@ -27,7 +27,7 @@ The bot can start from nothing and learn from played iterations overtime, or you
 3. The first start takes the longest while it prepares the pictures, subsequent stats have a cache to it takes a few seconds.
 
 
-##Usage
+## Usage
 
 Open the game, then run these from a terminal in the project folder:
 
